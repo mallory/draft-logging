@@ -1,6 +1,6 @@
 --- 
 title: 
-abbrev: 
+abbrev: logging
 docname: 
 category: info
  
